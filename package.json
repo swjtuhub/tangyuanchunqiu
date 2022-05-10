@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "scripts": {
         "dev": "vuepress dev docs",
-        "build": "vuepress build docs"
+        "build": "vuepress build docs --max_old_space_size=8000"
     },
     "license": "MIT",
     "devDependencies": {
