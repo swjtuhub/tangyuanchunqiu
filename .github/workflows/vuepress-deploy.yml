@@ -10,7 +10,7 @@ jobs:
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
-        ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.MY_TOKEN }}
         TARGET_REPO: mobyw/tangyuanchunqiu
         TARGET_BRANCH: gh_pages
         BUILD_SCRIPT: export NODE_OPTIONS=--max_old_space_size=4096 && yarn && yarn build
