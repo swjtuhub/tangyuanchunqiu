@@ -1,6 +1,0 @@
-<script>
-	
-	//window.location.href = "/xxfb/xxfbAction.do?ms=getAlumniIndex";
-	window.location.href = "/publish/alumni/index_m.html";
-	
-</script>
