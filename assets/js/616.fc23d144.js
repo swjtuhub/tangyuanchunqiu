@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[616],{978:function(t,s,n){"use strict";n.r(s);var e=n(14),i=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("**上海世博会开幕式文艺表演部分")]),this._v(" "),t("p",[this._v("上海世博会开幕式音乐喷泉和烟火汇演部分**")])])}),[],!1,null,null,null);s.default=i.exports}}]);

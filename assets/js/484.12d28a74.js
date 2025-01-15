@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[484],{850:function(t,s,n){"use strict";n.r(s);var o=n(14),r=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("hr"),this._v(" "),t("p",[t("strong",[this._v("【提示】播放在8分钟左右如果中断，请用鼠标将滑块移动至断点处，可以继续播放。")])])])}),[],!1,null,null,null);s.default=r.exports}}]);
